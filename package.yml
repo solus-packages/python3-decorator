@@ -1,8 +1,8 @@
 name       : python3-decorator
-version    : 4.0.10
-release    : 1
+version    : 4.1.2
+release    : 2
 source     :
-    - https://pypi.python.org/packages/13/8a/4eed41e338e8dcc13ca41c94b142d4d20c0de684ee5065523fee406ce76f/decorator-4.0.10.tar.gz : 9c6e98edcb33499881b86ede07d9968c81ab7c769e28e9af24075f0a5379f070
+    - https://pypi.python.org/packages/bb/e0/f6e41e9091e130bf16d4437dabbac3993908e4d6485ecbc985ef1352db94/decorator-4.1.2.tar.gz : 7cb64d38cb8002971710c8899fbdfb859a23a364b7c99dab19d1f719c2ba16b5
 license    : BSD-3-Clause
 component  : programming.python
 summary    : Better living through Python with decorators
